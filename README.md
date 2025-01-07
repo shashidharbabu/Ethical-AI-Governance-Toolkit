@@ -1,5 +1,5 @@
 
-*ARCHITECTURE*
+*APPLICATION ARCHITECTURE*
 
 +-----------------------+     +-----------------------+     +-----------------------+
 |   Data Audit Module   | --> | Model Evaluation      | --> | Compliance Reporting   |
