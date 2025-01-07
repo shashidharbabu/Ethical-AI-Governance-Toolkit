@@ -1,6 +1,8 @@
 
 *APPLICATION ARCHITECTURE*
 
+
+
 +-----------------------+     +-----------------------+     +-----------------------+
 |   Data Audit Module   | --> | Model Evaluation      | --> | Compliance Reporting   |
 |   (Bias Detection)    |     | (Fairness, Explain)   |     | Module                 |
